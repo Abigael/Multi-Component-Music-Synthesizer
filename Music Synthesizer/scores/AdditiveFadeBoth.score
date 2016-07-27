@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+	<instrument instrument="AdditiveInstrument" >
+		<note measure="1" beat="2.00" duration="4"  crossFadeIn="1" crossFadeOut="1" amplitudes="1 .8 .6 " note="F4"/>
+     </instrument>
+</score>

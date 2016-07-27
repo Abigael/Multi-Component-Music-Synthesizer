@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+     <instrument instrument="RecordedSynth">
+	<effect reverberation="1" wet=".7" dry=".3" />
+       <note filename="audio/shortSomething.mp3"/>
+  </instrument>
+</score>
+

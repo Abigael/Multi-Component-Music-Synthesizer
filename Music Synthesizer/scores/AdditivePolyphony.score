@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+	<instrument instrument="AdditiveInstrument" >
+		<note measure="1" beat="1" duration="3" amplitudes="1 .8 .6 .6" note="Bb5" ADSR =".05 .05 1.1 .1" />
+		<note measure="1" beat="1" duration="3" amplitudes="1 .8 .6 .6" note="F5"  ADSR =".05 .05 1.1 .1" />
+		<note measure="1" beat="1" duration="3" amplitudes="1 .8 .6 .6" note="D5"  ADSR =".05 .05 1.1 .1" />
+     </instrument>
+</score>
